@@ -1,2 +1,2 @@
 # Wes-Time
-Full stack project w/ Wesl0
+Full stack project with Wesley Oldaker(Wesl0)
